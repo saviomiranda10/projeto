@@ -139,3 +139,16 @@ footer {
   padding: 24px 0;
   text-align: center;
 }
+@media (min-width:700px){
+  :root {
+    --bg-url:url(./assets.bg-desktop.jpg);
+
+  }
+  .light {
+    --bg-url:url(./assets.bg-desktop-light.jpn);
+  }
+}
+ 
+
+ 
+  
